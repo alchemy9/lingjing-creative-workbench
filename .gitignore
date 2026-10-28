@@ -1,0 +1,9 @@
+# Ignore MacOS system files
+.DS_Store
+dev/
+# Local dependencies and build artifacts
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
